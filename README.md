@@ -1,2 +1,2 @@
-# kala-ghar
-art gallery website frontend
+# art-gallary
+full front end
